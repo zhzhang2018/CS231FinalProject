@@ -12,3 +12,4 @@ To play:
 - Use <space> to hold arrow, and then <wasd> to choose a direction to shoot
 - You only have 1 shot to kill the Wumpus and win
 - To lose: Either shoot to the wrong block, or fall down the well (the Moon emoji), or run into the Wumpus and get eaten.
+- For more information, please visit this Wiki Page: https://wiki.colby.edu/display/~zhzhang/CS231+Project+11
