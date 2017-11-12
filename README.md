@@ -13,3 +13,4 @@ To play:
 - You only have 1 shot to kill the Wumpus and win
 - To lose: Either shoot to the wrong block, or fall down the well (the Moon emoji), or run into the Wumpus and get eaten.
 - For more information, please visit this Wiki Page: https://wiki.colby.edu/display/~zhzhang/CS231+Project+11
+(Or read the PDF version: https://github.com/zhzhang2018/CS231FinalProject/blob/master/CS231%20Project%2011%20-%20Zhuofan%20Zhang%20-%20Colby%20College%20Wiki.pdf)
